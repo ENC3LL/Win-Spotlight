@@ -14,6 +14,9 @@ A keyboard-driven launcher for Windows 11 in the style of macOS Spotlight. Press
 [![GitHub](https://img.shields.io/badge/GitHub-ENC3ll%2Fwin—spotlight-181717?logo=github&logoColor=white)](https://github.com/ENC3LL/win-spotlight)
 
 ## Overview
+<img width="788" height="108" alt="image" src="https://github.com/user-attachments/assets/701913a6-560d-4ce5-a83d-212daec4de5d" />
+
+<img width="803" height="428" alt="image" src="https://github.com/user-attachments/assets/6a8e257c-d869-474e-a3f1-3dd43d39938b" />
 
 SpotlightWin runs in the background, opens a search window on a global hotkey and launches what you pick. It finds desktop applications, Microsoft Store (UWP) apps, and games from Steam and the Epic Games Launcher, and evaluates arithmetic expressions. It is a single portable executable of about 450 KB with no installer and no configuration files.
 
